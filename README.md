@@ -23,10 +23,10 @@
 ---
 
 ## 📂 Проекты
-- 🔐 CTF / Writeups: https://github.com/BiGeStl/ctf-writeups
-- 🌐 Network Labs (VLAN/OSPF): https://github.com/BiGeStl/network-labs
-- 🧪 Web Security Practice: https://github.com/BiGeStl/web-security-labs
-- 🐍 Python Mini Projects: https://github.com/BiGeStl/python-mini-projects
+- 🔐 CTF / Writeups: 
+- 🌐 Network Labs (VLAN/OSPF): 
+- 🧪 Web Security Practice: 
+- 🐍 Python Mini Projects: 
 
 ---
 
