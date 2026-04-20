@@ -1,0 +1,28 @@
+n = int(input())
+
+count = 0
+sum_digits = 0
+product = 1
+last_digit = n % 10
+first_digit = 0
+
+temp = n
+while temp > 0:
+    digit = temp % 10
+    sum_digits += digit
+    product *= digit
+    count += 1
+    
+    first_digit = digit
+    
+    temp //= 10
+
+average = sum_digits / count
+sum_first_last = last_digit + first_digit
+
+print(sum_digits)
+print(count)
+print(product)
+print(average)
+print(first_digit)
+print(sum_first_last)
